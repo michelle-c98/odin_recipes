@@ -1,0 +1,41 @@
+h1,
+.recipe-list {
+    text-align: center;
+    color: #ff76d8;
+    background-color: #fef9cc;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#home-title {
+    font-size: 42px;
+}
+
+.recipe-list ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.recipe-title {
+    font-size: 36px;
+}
+
+h2 {
+    color: #ff478e;
+}
+
+body {
+    color: #2f32a7;
+    background-color: #e6efff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.recipe-img {
+    height: auto;
+    width: 500px;
+}
+
+.steps {
+    display: inline-block;
+    text-align: left;
+}
